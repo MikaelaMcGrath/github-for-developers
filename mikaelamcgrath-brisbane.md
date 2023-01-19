@@ -15,3 +15,4 @@
 ### Local Attractions
 
 - The mill splashpark
+- Mt Coot-tha
