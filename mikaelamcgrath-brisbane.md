@@ -11,6 +11,7 @@
 - Brisbane wheel
 - Australia zoo
 - Rail museum 
+- Aquarium
 
 ### Local Attractions
 
